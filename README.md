@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Backend(PHP)
 - 🤔 I’m looking for help with complex data structures and caching in SQL
 - 😄 Pronouns: he/him
-
-<img src="https://hosty.xxx/i/a851404534df3e803ce79f1eb2b8ca0ca4debe77.jpg" />
+<!-- 
+<img src="https://hosty.xxx/i/a851404534df3e803ce79f1eb2b8ca0ca4debe77.jpg" /> -->
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>   <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/vue-js.png"/><img src="https://img.icons8.com/color/48/000000/php.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
