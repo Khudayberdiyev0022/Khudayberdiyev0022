@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Backend(PHP)
 - 🤔 I’m looking for help with complex data structures and caching in SQL
 - 😄 Pronouns: he/him
+- 📬 How to reach me : Telegram: https://t.me/khudayberdiyev_0022
 <!-- 
 <img src="https://hosty.xxx/i/a851404534df3e803ce79f1eb2b8ca0ca4debe77.jpg" /> -->
 
